@@ -11,3 +11,6 @@
 
 ## 4. Face Reconition
       Use PCA decomposion technique to do face reconition. We can just get a few features to reconize a person.
+
+## 5. Pictures quality improvement
+      Use PCA to reduce noise to get clearly pictures
