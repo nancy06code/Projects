@@ -7,3 +7,6 @@
 ## 2. Titanic Shipwreck    
 ```
       To predict survival on the Titanic 
+```
+## 3. California Housing Price
+      To predict California housing price
