@@ -14,3 +14,6 @@
 
 ## 5. Pictures quality improvement
       Use PCA to reduce noise to get clearly pictures
+      
+## 6 K-Means to Compress pictures quality(colors)
+      Use K-Means to reduce the number of colors of picture to compress the pictures size.
